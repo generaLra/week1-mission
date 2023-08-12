@@ -132,20 +132,19 @@ body{
 	font-size: 24px;
 }
 
+.pt-8{
+	padding-top: 8px;
+}
 .pt-16{
 	padding-top: 16px;
+}
+.pt-12{
+	padding-top: 12px;
 }
 .pt-40{
 	padding-top: 40px;
 }
 .pt-80{
 	padding-top: 80px;
-}
-
-.ptb-8{
-	padding: 8px 0;
-}
-.ptb-12{
-	padding: 12px 0;
 }
 
